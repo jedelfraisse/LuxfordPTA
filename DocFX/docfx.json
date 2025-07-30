@@ -3,14 +3,19 @@
     "content": [
       {
         "files": [
-          "src/**"
+          "articles/**.md",
+          "articles/**/toc.yml",
+          "events/**.md",
+          "toc.yml",
+          "*.md"
         ]
       }
     ],
     "resource": [
       {
         "files": [
-          "images/**"
+          "images/**",
+          "documents/**"
         ]
       }
     ],

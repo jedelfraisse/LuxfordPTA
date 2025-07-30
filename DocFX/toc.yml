@@ -1,5 +1,8 @@
-- name: Articles
-  href: articles/
-- name: Api Documentation
-  href: api/
-  homepage: api/index.md
+- name: Home
+  href: index.md
+- name: Get Involved
+  href: get-involved.md
+- name: Events
+  href: events/list.md
+- name: Documents
+  href: documents.md
