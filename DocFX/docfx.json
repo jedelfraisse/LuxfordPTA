@@ -15,7 +15,8 @@
       {
         "files": [
           "images/**",
-          "documents/**"
+          "documents/**",
+          "styles/**"
         ]
       }
     ],
@@ -23,7 +24,10 @@
     "globalMetadata": {
       "_appLogoPath": "images/pta-logo.jpg",
       "_appName": "Luxford Elementary PTA",
-      "_appTitle": "Luxford Elementary PTA"
+      "_appTitle": "Luxford Elementary PTA",
+      "_extraCss": [
+        "styles/main.css"
+      ]
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
