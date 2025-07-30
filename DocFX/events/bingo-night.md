@@ -1,13 +1,14 @@
 # PTA Bingo Night Fundraiser
 
-**Date:** TBD  
+**Fall Date:** November 7, 2025  
+**Winter Date:** January 16, 2026  
 **Time:** 6:00 PM - 8:00 PM  
 **Location:** Luxford Elementary School Cafeteria  
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455
 
 ## Get Ready for Family Fun & Prizes!
 
-Join us for an exciting evening of Bingo! This family-friendly fundraiser brings our community together for fun, prizes, and a great cause. All proceeds support PTA programs and activities that benefit our students and school.
+Join us for our exciting Bingo nights! This family-friendly fundraiser brings our community together for fun, prizes, and a great cause. We host multiple Bingo nights throughout the school year, so you have several chances to participate. All proceeds support PTA programs and activities that benefit our students and school.
 
 ## Event Schedule
 
@@ -133,11 +134,17 @@ Join us for an exciting evening of Bingo! This family-friendly fundraiser brings
 
 ## Planning Ahead
 
-### Save the Date
-- **Monthly event** - Held several times throughout the school year
-- **Popular event** - Arrive early for best seating
+### Multiple Dates Throughout the Year
+- **Fall Bingo Night:** November 7, 2025
+- **Winter Bingo Night:** January 16, 2026
+- **Popular events** - Arrive early for best seating
 - **Bring the family** - Perfect activity for parents and children
 - **Support the school** - Every card purchased helps our students
+
+### Mark Your Calendars
+- **Two chances to play** - Don't miss either event!
+- **Same great format** - Both nights feature the same fun games and prizes
+- **Community building** - Great way to connect with other families twice a year
 
 ## Contact Information
 

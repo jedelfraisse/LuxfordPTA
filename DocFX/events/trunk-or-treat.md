@@ -1,6 +1,6 @@
 # Trunk or Treat & Halloween Costume Contest
 
-**Date:** October 31, 2025  
+**Date:** October 24, 2025  
 **Time:** 6:30 PM - 8:00 PM  
 **Location:** Luxford Elementary School Bus Loop  
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455

@@ -2,6 +2,8 @@
 
 Welcome to the official website of the Luxford Elementary Parent Teacher Association! We're a dedicated group of parents, teachers, and community members working together to enhance the educational experience for all students at Luxford Elementary School.
 
+![Luxford Elementary PTA Logo](images/pta-logo.jpg)
+
 ## About Our PTA
 
 The Luxford Elementary PTA is committed to fostering a strong partnership between families and our school. Through fundraising, volunteer efforts, and community building, we support our students, teachers, and educational programs.
@@ -23,9 +25,8 @@ To enhance the educational experience of every student at Luxford Elementary by:
 
 - **[Get Involved](get-involved.md)** - Learn how you can help make a difference
 - **[Events](events/list.md)** - See what's happening at our school
+- **[Givebacks](givebacks.md)** - Join PTA membership & support through everyday purchases
 - **[Documents](documents.md)** - Access important PTA documents and reports
-- **[PTA Board Election](events/pta-board-election.md)** - Vote for our 2025-2026 leadership on August 20th (11:45 AM - 12:30 PM)
-- **[Back to School Event](events/back-to-school-night.md)** - Meet the new board on August 21st (3:00 PM - 5:00 PM)
 - **[Contact Us](#contact-us)** - Reach out with questions or ideas
 
 ## PTA Leadership Transition
@@ -44,7 +45,7 @@ The Luxford Elementary PTA is currently in transition for the 2025-2026 school y
 
 ### Important Election Information
 - **Who can vote:** Current PTA members and new members who join before the election
-- **Membership:** $25 per family (can join at the meeting)
+- **Membership:** [Join online at our web store](https://luxfordpta.givebacks.com/)
 
 
 ## Contact Us
