@@ -63,9 +63,9 @@ Join us for our back to school event! Meet the PTA board, learn about our progra
 
 ### Trunk or Treat & Halloween Costume Contest
 **Date:** October 31, 2025  
-**Time:** 2:00 PM - 3:00 PM  
-**Location:** School Parking Lot & Gymnasium  
-Join us for our Trunk or Treat event with decorated car trunks and a special Halloween costume contest featuring both teachers and students!
+**Time:** 6:30 PM - 8:00 PM  
+**Location:** School Bus Loop  
+Join us for our Trunk or Treat event with decorated car trunks in the bus loop and a special Halloween costume contest with photos taken during school hours!
 
 **[View Event Details & Contest Rules →](trunk-or-treat.md)**
 

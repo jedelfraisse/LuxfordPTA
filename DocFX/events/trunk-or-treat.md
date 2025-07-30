@@ -1,42 +1,47 @@
 # Trunk or Treat & Halloween Costume Contest
 
 **Date:** October 31, 2025  
-**Time:** 2:00 PM - 3:00 PM  
-**Location:** Luxford Elementary School Parking Lot & Gymnasium  
+**Time:** 6:30 PM - 8:00 PM  
+**Location:** Luxford Elementary School Bus Loop  
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455
 
 ## Get Ready for Spook-tacular Fun!
 
-Join us for our annual Trunk or Treat event! Families and volunteers will decorate their car trunks with Halloween themes, and children can trick-or-treat in a safe, controlled environment. Plus, we'll have a special Halloween costume contest featuring both students AND teachers!
+Join us for our annual Trunk or Treat event! Families and volunteers will decorate their car trunks with Halloween themes, and children can trick-or-treat in a safe, controlled environment in the school bus loop. Plus, we'll have a special Halloween costume contest with photos taken during school hours!
 
 ## Event Schedule
 
-### 1:30 PM - 2:00 PM: Setup & Arrival
+### 6:00 PM - 6:30 PM: Setup & Arrival
 - **Trunk decorators** arrive and set up their themed displays
-- **Volunteers** position trunks throughout the parking lot
+- **Volunteers** position trunks throughout the bus loop
 - **Final safety checks** of the trick-or-treat route
 
-### 2:00 PM - 2:30 PM: Trunk or Treat
-- **Children trick-or-treat** from trunk to trunk in the parking lot
+### 6:30 PM - 8:00 PM: Trunk or Treat
+- **Children trick-or-treat** from trunk to trunk in the bus loop
 - **Safe, controlled environment** with adult supervision
 - **Themed trunk displays** for extra fun and photos
 
-### 2:30 PM - 2:45 PM: Costume Contest
-- **Student costume parade** in the gymnasium
-- **Teacher costume showcase** - our staff joins the fun!
-- **Family photo opportunities** with contestants
+## Halloween Costume Contest
 
-### 2:45 PM - 3:00 PM: Awards & Treats
-- **Costume contest winners** announced
-- **Additional treats** distributed to all participants
-- **Group photos** and celebration
+### Contest Details
+- **Photos taken at the event** - Costume photos will be taken during Trunk or Treat
+- **Classroom voting** - Photos displayed and voted on in classrooms
+- **Winners announced** - Results shared after classroom voting is complete
+
+### Contest Categories
+- **Best Student (Kindergarten - 1st Grade)** - Individual student costume
+- **Best Student (2nd - 3rd Grade)** - Individual student costume
+- **Best Student (4th - 5th Grade)** - Individual student costume
+- **Best Teacher & Staff** - Individual teacher/staff costume
+- **Best Trunk** - Most creative trunk decoration
 
 ## Trunk or Treat Details
 
 ### How It Works
-- **Decorated car trunks** line the school parking lot
+- **Decorated car trunks** line the school bus loop
 - **Children walk** from trunk to trunk collecting treats
-- **Volunteers and families** provide candy and decorations
+- **Volunteers and families** provide decorations
+- **Candy provided** - PTA supplies candy, or trunk decorators can bring their own
 - **Safe environment** with clearly marked route
 
 ### Trunk Themes (Suggested)
@@ -49,36 +54,19 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 
 ### Sign Up to Decorate a Trunk
 **We need families and staff to decorate trunks!**
-- **Provide your own decorations** and candy for distribution
-- **Arrive by 1:30 PM** for setup
-- **Stay until 3:00 PM** for the full event
+- **Provide your own decorations** for creative trunk displays
+- **Candy options** - PTA will provide candy for distribution, or you can bring your own
+- **Arrive by 6:00 PM** for setup
+- **Stay until 8:00 PM** for the full event
 - **Prizes** for most creative trunk decorations
 
 **Sign up:** TBD
 
-## Costume Contest Categories
-
-### Student Categories (By Grade Level)
-- **Kindergarten - 1st Grade**
-- **2nd - 3rd Grade** 
-- **4th - 5th Grade**
-
-### Teacher & Staff Category
-- **Faculty Costume Contest** - Teachers and staff show off their creativity!
-
-### Special Awards (All Ages)
-- **Most Creative** - Original and imaginative costumes
-- **Funniest** - Costumes that make everyone laugh
-- **Best Group Costume** - Coordinated costumes (students or staff)
-- **Most Colorful** - Bright and vibrant costumes
-- **Best Book Character** - Literary-inspired costumes
-- **Best Teacher Costume** - Special recognition for our amazing staff!
 
 ### Costume Requirements
 - **School-appropriate** - No violent, inappropriate, or overly scary costumes
 - **Safe materials** - No sharp objects, weapons (real or fake)
-- **Comfortable** - Students should be able to sit, walk, and participate in class
-- **Face visibility** - Faces should be clearly visible (no full masks during school)
+- **Face visibility** - Faces should be clearly visible for photos
 - **No offensive content** - Respectful of all cultures and backgrounds
 
 ### What's Allowed
@@ -87,7 +75,7 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - ✅ **Book characters** and historical figures
 - ✅ **Occupations** (doctor, firefighter, teacher, etc.)
 - ✅ **Creative/original** designs
-- ✅ **Group themes** with friends
+- ✅ **Group themes** with friends or colleagues
 
 ### What's NOT Allowed
 - ❌ **Weapons** of any kind (swords, guns, knives - even fake ones)
@@ -96,61 +84,38 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - ❌ **Face paint** that completely obscures identity
 - ❌ **Cultural stereotypes** or offensive representations
 
-## Event Schedule
-
-### 1:45 PM - 2:00 PM: Setup & Arrival
-- Students change into costumes (if not already wearing)
-- Line up by grade level in the hallway
-- Final costume checks by teachers
-
-### 2:00 PM - 2:30 PM: Costume Parade
-- **Kindergarten & 1st Grade** parade first
-- **2nd & 3rd Grade** follow
-- **4th & 5th Grade** parade last
-- Each student walks across the stage
-- Parents welcome to watch and take photos
-
-### 2:30 PM - 2:45 PM: Judging & Activities
-- Judges deliberate (PTA volunteers and teachers)
-- Students participate in Halloween-themed activities
-- Music and dancing in the gymnasium
-
-### 2:45 PM - 3:00 PM: Awards Ceremony
-- Winners announced for each category
-- All participants receive small treats
-- Group photo opportunities
-
 ## How to Participate
 
-### Registration
-- **No pre-registration required** - all students can participate
-- **Costume change time** - Students can change at school if needed
-- **Parent permission** - Participation consent included in school forms
+### Costume Contest Entry
+- **Photos taken at event** - Costume photos taken during Trunk or Treat
+- **All participants welcome** - Students and teachers can participate
+- **Classroom voting** - Photos displayed in classrooms for student voting
 
-### Judging Criteria
-- **Creativity and originality** (40%)
-- **Effort and detail** (30%)
-- **Appropriateness** (30%)
+### Judging Process
+- **Event photography** - Official photos taken during Trunk or Treat
+- **Classroom display** - Photos shown in each classroom
+- **Student voting** - Students vote for their favorites in each category
+- **Winners announced** - Results shared after voting is complete
 
 ### Prizes
-- **1st Place winners** - Gift card to local bookstore ($15)
-- **2nd Place winners** - Halloween-themed school supplies
-- **3rd Place winners** - Special certificates and stickers
-- **All participants** - Small treat bags and participation stickers
+- **Category winners** - Special recognition and small prizes
+- **All participants** - Recognition for participation
+- **Best Trunk** - Special prize for most creative trunk decoration
 
 ## Family Involvement
 
-### Parent Attendance
-- **Welcome to attend** and watch the parade
-- **Photo opportunities** during the parade and after
-- **Please arrive by 1:55 PM** for best seating
+### Trunk or Treat Attendance
+- **Family event** - Perfect for all ages
+- **Photo opportunities** - Capture memories with decorated trunks
+- **Community gathering** - Connect with other families
 - **Stay until 3:00 PM** for awards ceremony
 
 ### Volunteer Opportunities
-- **Judges** - Help select winners in each category
-- **Photography** - Capture memories for the school website
-- **Setup/Cleanup** - Prepare gym and assist with activities
-- **Treat Distribution** - Help give out prizes and treats
+- **Trunk decoration** - Set up and decorate your own trunk
+- **Safety monitoring** - Help supervise the trick-or-treat route in bus loop
+- **Event photography** - Help take costume contest photos during the event
+- **Setup/cleanup** - Help prepare and clean up the bus loop area
+- **Candy distribution** - Assist with distributing PTA-provided candy
 
 **Volunteer signup:** TBD
 
@@ -169,31 +134,31 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - **Library books** - Costume idea inspiration
 
 ### Comfort Considerations
-- **Layer over regular clothes** for easy removal
-- **Comfortable shoes** - students will be walking and standing
-- **Easy bathroom access** - avoid complicated one-piece costumes
-- **Weather appropriate** - consider temperature for outdoor activities
+- **Weather appropriate** - Consider October evening temperatures
+- **Comfortable shoes** - Students will be walking around the bus loop
+- **Easy to move in** - Costumes should allow for trick-or-treating
+- **Visibility** - Ensure costumes are visible in evening light
 
 ## Safety Guidelines
 
-### During School Hours
-- **Face visibility** - full masks not allowed during classes
-- **Safe materials** - no choking hazards or sharp edges
-- **Mobility** - students must be able to participate in all activities
-- **Allergies** - be mindful of latex and other common allergens
+### During Trunk or Treat
+- **Adult supervision** - Parents accompany children around the bus loop
+- **Safe walking** - Stay on designated pathways
+- **Visibility** - Consider reflective elements for evening event
+- **Allergies** - Check treats for allergens before consuming
 
 ### Photography Policy
-- **School photographers** will take event photos
-- **Parent photos** welcome during designated times
+- **Contest photos** - Official costume photos taken during Trunk or Treat event
+- **Family photos** - Welcome to take photos during the event
+- **Classroom display** - Contest photos will be displayed in classrooms for voting
 - **Social media** - Please respect other families' privacy preferences
-- **Group photos** available for purchase from school
 
 ## Weather Considerations
 
-### Indoor Event
-- **Rain or shine** - Event will be held in gymnasium
-- **Air conditioning** - Gymnasium will be comfortable
-- **Space for all** - Adequate room for students and families
+### Outdoor Event
+- **Rain plan** - Event will move indoors if weather is severe
+- **Temperature** - Dress appropriately for October evening weather
+- **Lighting** - Bus loop will be well-lit for safety
 
 ## Special Accommodations
 
@@ -204,25 +169,19 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 
 ## After the Event
 
-### Costume Storage
-- **Take costumes home** at the end of the day
-- **Change assistance** - Teachers will help students change back if needed
-- **Lost items** - Check with main office for left-behind costume pieces
-
 ### Photo Sharing
-- **School website** - Event photos posted within one week
+- **School website** - Contest winner photos posted within one week
 - **PTA Facebook** - Highlights and winner announcements
 - **Yearbook consideration** - Best photos included in school yearbook
 
 ## Contact Information
 
-**Event Coordinator:** Jennifer Smith  
+**Event Coordinator:** TBD  
 **Email:** TBD  
 **Phone:** (757) 123-4567
 
-**School Main Office:** (757) 648-3200  
-**Principal Dr. Martinez:** [martinez@vbschools.com](mailto:martinez@vbschools.com)
+
 
 ---
 
-*Get ready for a spook-tacular afternoon of Halloween fun! We can't wait to see all the amazing costumes!*
+*Get ready for a spook-tacular evening of Halloween fun! We can't wait to see all the amazing costumes and creative trunks!*
