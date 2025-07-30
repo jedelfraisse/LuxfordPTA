@@ -1,30 +1,78 @@
-# Halloween Costume Contest
+# Trunk or Treat & Halloween Costume Contest
 
 **Date:** October 31, 2025  
 **Time:** 2:00 PM - 3:00 PM  
-**Location:** Luxford Elementary School Gymnasium  
+**Location:** Luxford Elementary School Parking Lot & Gymnasium  
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455
 
 ## Get Ready for Spook-tacular Fun!
 
-Join us for our annual Halloween Costume Contest! Students can show off their creativity and have fun celebrating Halloween with their classmates. This is a school-wide event that brings together all grade levels for an afternoon of safe, family-friendly Halloween fun.
+Join us for our annual Trunk or Treat event! Families and volunteers will decorate their car trunks with Halloween themes, and children can trick-or-treat in a safe, controlled environment. Plus, we'll have a special Halloween costume contest featuring both students AND teachers!
 
-## Contest Categories
+## Event Schedule
 
-### By Grade Level
+### 1:30 PM - 2:00 PM: Setup & Arrival
+- **Trunk decorators** arrive and set up their themed displays
+- **Volunteers** position trunks throughout the parking lot
+- **Final safety checks** of the trick-or-treat route
+
+### 2:00 PM - 2:30 PM: Trunk or Treat
+- **Children trick-or-treat** from trunk to trunk in the parking lot
+- **Safe, controlled environment** with adult supervision
+- **Themed trunk displays** for extra fun and photos
+
+### 2:30 PM - 2:45 PM: Costume Contest
+- **Student costume parade** in the gymnasium
+- **Teacher costume showcase** - our staff joins the fun!
+- **Family photo opportunities** with contestants
+
+### 2:45 PM - 3:00 PM: Awards & Treats
+- **Costume contest winners** announced
+- **Additional treats** distributed to all participants
+- **Group photos** and celebration
+
+## Trunk or Treat Details
+
+### How It Works
+- **Decorated car trunks** line the school parking lot
+- **Children walk** from trunk to trunk collecting treats
+- **Volunteers and families** provide candy and decorations
+- **Safe environment** with clearly marked route
+
+### Trunk Themes (Suggested)
+- **Superhero headquarters** - Comic book displays
+- **Under the sea** - Ocean and sea creature themes
+- **Outer space** - Planets, aliens, and astronauts
+- **Fairy tale forest** - Princess and storybook characters
+- **Spooky graveyard** - Not-too-scary Halloween fun
+- **Harvest celebration** - Fall and autumn themes
+
+### Sign Up to Decorate a Trunk
+**We need families and staff to decorate trunks!**
+- **Provide your own decorations** and candy for distribution
+- **Arrive by 1:30 PM** for setup
+- **Stay until 3:00 PM** for the full event
+- **Prizes** for most creative trunk decorations
+
+**Sign up:** [trunkortreat@luxfordpta.org](mailto:trunkortreat@luxfordpta.org)
+
+## Costume Contest Categories
+
+### Student Categories (By Grade Level)
 - **Kindergarten - 1st Grade**
 - **2nd - 3rd Grade** 
 - **4th - 5th Grade**
 
-### Special Awards
+### Teacher & Staff Category
+- **Faculty Costume Contest** - Teachers and staff show off their creativity!
+
+### Special Awards (All Ages)
 - **Most Creative** - Original and imaginative costumes
 - **Funniest** - Costumes that make everyone laugh
-- **Best Group Costume** - Coordinated costumes (2-4 students)
+- **Best Group Costume** - Coordinated costumes (students or staff)
 - **Most Colorful** - Bright and vibrant costumes
-- **Scariest (Appropriate)** - Not-too-scary spooky costumes
 - **Best Book Character** - Literary-inspired costumes
-
-## Contest Rules & Guidelines
+- **Best Teacher Costume** - Special recognition for our amazing staff!
 
 ### Costume Requirements
 - **School-appropriate** - No violent, inappropriate, or overly scary costumes

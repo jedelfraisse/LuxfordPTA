@@ -1,56 +1,23 @@
 # Luxford Elementary PTA Events
 
-Welcome to our events page! Here you can find information about all upcoming PTA events, school activities, and important dates.
+Welcome to our events page! Here you can find information about all upcoming PTA events organized by category to help you find exactly what you're looking for.
 
-## Upcoming Events
+## Event Categories
 
-### August 2025
+### 🎯 Fundraising Events
+Events focused on raising funds to support school programs, equipment, and activities.
 
-#### School Fundraising Fair
-**Date:** August 15, 2025  
-**Time:** 10:00 AM - 4:00 PM  
-**Location:** Luxford Elementary School Playground  
-Join us for our annual fundraising fair with games, food stalls, and entertainment for the whole family. All proceeds support school programs and activities.
+### 👨‍👩‍👧‍👦 Student/Family/Community Support
+Events designed to build community, support families, and create fun experiences for students.
 
-**[View Full Details & Volunteer Info →](fundraising-fair.md)**
+### 🏫 School/Teacher/Staff Support  
+Events focused on supporting our educators, staff, and school operations.
 
-#### PTA Back to School Night
-**Date:** August 27, 2025  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** School Cafeteria  
-Meet the PTA board, learn about our programs, and find out how you can get involved this school year.
+---
 
-**[View Full Details & RSVP Info →](back-to-school-night.md)**
+## 🎯 Fundraising Events
 
-### September 2025
-
-#### Meet the Teacher Night
-**Date:** September 3, 2025  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** Individual Classrooms  
-Visit your child's classroom, meet their teacher, and learn about the curriculum for the year.
-
-**[View Full Details & Tips →](meet-the-teacher.md)**
-
-#### Fall Book Fair
-**Date:** September 16-20, 2025  
-**Time:** Various times during school week  
-**Location:** School Library  
-Browse and purchase books to support your child's reading and help fund library programs.
-
-**[View Schedule & Book Info →](fall-book-fair.md)**
-
-### October 2025
-
-#### Halloween Costume Contest
-**Date:** October 31, 2025  
-**Time:** 2:00 PM - 3:00 PM  
-**Location:** School Gymnasium  
-Students can participate in our fun costume contest with prizes for creativity and originality.
-
-**[View Contest Rules & Categories →](halloween-costume-contest.md)**
-
-#### Fall Festival
+### Fall Festival
 **Date:** October 25, 2025  
 **Time:** 5:00 PM - 8:00 PM  
 **Location:** School Campus  
@@ -58,23 +25,79 @@ Family-friendly festival with games, food trucks, and seasonal activities.
 
 **[View Festival Details & Volunteer Info →](fall-festival.md)**
 
-## Regular Monthly Events
+### Fall Book Fair
+**Date:** September 16-20, 2025  
+**Time:** Various times during school week  
+**Location:** School Library  
+Browse and purchase books to support your child's reading and help fund library programs.
+
+**[View Schedule & Book Info →](fall-book-fair.md)**
+
+---
+
+## 👨‍👩‍👧‍👦 Student/Family/Community Support
+
+### PTA Board Election 2025-2026
+**Date:** August 20, 2025  
+**Time:** 11:45 AM - 12:30 PM  
+**Location:** School Cafeteria  
+Join us to elect the PTA board members who will lead our organization through the 2025-2026 school year. Meet the candidates and cast your vote!
+
+**[View Candidate Info & Election Details →](pta-board-election.md)**
+
+### PTA Back to School Event
+**Date:** August 21, 2025  
+**Time:** 3:00 PM - 5:00 PM  
+**Location:** School Campus  
+Join us for our back to school event! Meet the PTA board, learn about our programs, and find out how you can get involved this school year.
+
+**[View Full Details & RSVP Info →](back-to-school-night.md)**
+
+### Trunk or Treat & Halloween Costume Contest
+**Date:** October 31, 2025  
+**Time:** 2:00 PM - 3:00 PM  
+**Location:** School Parking Lot & Gymnasium  
+Join us for our Trunk or Treat event with decorated car trunks and a special Halloween costume contest featuring both teachers and students!
+
+**[View Event Details & Contest Rules →](trunk-or-treat.md)**
+
+---
+
+## 🏫 School/Teacher/Staff Support
+
+### Meet the Teacher Night
+**Date:** September 3, 2025  
+**Time:** 6:00 PM - 8:00 PM  
+**Location:** Individual Classrooms  
+Visit your child's classroom, meet their teacher, and learn about the curriculum for the year.
+
+**[View Full Details & Tips →](meet-the-teacher.md)**
+
+---
+
+## 📅 Regular Monthly Events
 
 ### PTA General Meetings
 **When:** First Tuesday of each month at 7:00 PM  
 **Where:** School Cafeteria  
-**Next Meeting:** August 6, 2025
+**Next Meeting:** September 3, 2025 (First meeting with new board)
 
-All parents and guardians are welcome to attend our monthly meetings to stay informed about school activities and have a voice in PTA decisions.
+**Special Election Meeting:** August 20, 2025 at 11:45 AM for board elections.
 
-## Past Events
+All parents and guardians are welcome to attend our monthly meetings to stay informed about school activities and have a voice in PTA decisions. The new board elected on August 20th will lead these meetings starting in September.
+
+---
+
+## 🏆 Past Events
 
 ### Spring 2025 Highlights
 - **Spring Carnival** (April 2025) - Raised $8,500 for playground equipment
 - **Teacher Appreciation Week** (May 2025) - Celebrated our amazing staff
 - **5th Grade Graduation Celebration** (June 2025) - Send-off for our graduating students
 
-## Event Volunteer Opportunities
+---
+
+## 🙋‍♀️ Event Volunteer Opportunities
 
 We're always looking for volunteers to help make our events successful! If you're interested in helping with:
 
@@ -86,7 +109,9 @@ We're always looking for volunteers to help make our events successful! If you'r
 
 Please contact our Event Coordinator: [events@luxfordpta.org](mailto:events@luxfordpta.org)
 
-## Stay Updated
+---
+
+## 📢 Stay Updated
 
 - **School Newsletter** - Monthly updates sent home
 - **PTA Facebook Page** - [Luxford Elementary PTA](http://facebook.com/luxfordpta)

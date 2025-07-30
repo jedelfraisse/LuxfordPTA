@@ -1,29 +1,29 @@
-# PTA Back to School Night
+# PTA Back to School Event
 
-**Date:** August 27, 2025  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** Luxford Elementary School Cafeteria  
+**Date:** August 21, 2025  
+**Time:** 3:00 PM - 5:00 PM  
+**Location:** Luxford Elementary School Campus  
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455
 
 ## Welcome Back!
 
-Join us for an exciting evening to kick off the new school year! This is your opportunity to meet the PTA board, learn about our programs, and discover how you can get involved in making this the best year yet for our students.
+Join us for an exciting afternoon to kick off the new school year! This is your opportunity to meet the PTA board, learn about our programs, and discover how you can get involved in making this the best year yet for our students.
 
 ## Event Schedule
 
-### 6:00 PM - 6:30 PM: Welcome & Refreshments
+### 3:00 PM - 3:30 PM: Welcome & Refreshments
 - **Check-in & Registration** - Sign up for volunteer opportunities
 - **Meet & Greet** - Connect with other parents and PTA members
 - **Light Refreshments** - Coffee, tea, and snacks provided
 
-### 6:30 PM - 7:15 PM: PTA Presentation
-- **Welcome Address** - PTA President Sarah Johnson
+### 3:30 PM - 4:15 PM: PTA Presentation
+- **Welcome Address** - PTA President (newly elected)
 - **2024-2025 Accomplishments** - What we achieved together
 - **2025-2026 Goals & Plans** - Exciting initiatives ahead
 - **Budget Overview** - How PTA funds support our school
 - **Committee Introductions** - Meet our team leaders
 
-### 7:15 PM - 8:00 PM: Get Involved Fair
+### 4:15 PM - 5:00 PM: Get Involved Fair
 - **Committee Sign-ups** - Find your perfect volunteer match
 - **Q&A Session** - Ask questions about PTA involvement
 - **Information Booths** - Learn about specific programs
