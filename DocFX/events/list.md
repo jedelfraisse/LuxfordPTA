@@ -1,6 +1,10 @@
 # Luxford Elementary PTA Events
 
-Welcome to our events page! Here you can find information about all upcoming PTA events organized by category to help you find exactly what you're looking for.
+Welcome to our events page! Here you can find information about all upcomiPlease contact our Event Coordinator: [events@luxfordpta.org](mailto:events@luxfordpta.org)
+
+---
+
+## 📢 Stay Updated organized by category to help you find exactly what you're looking for.
 
 ## Event Categories
 
@@ -107,11 +111,19 @@ We're always looking for volunteers to help make our events successful! If you'r
 - **Photography & Documentation**
 - **Registration & Check-in**
 
-Please contact our Event Coordinator: [events@luxfordpta.org](mailto:events@luxfordpta.org)
+Please contact our Volunteer Coordinator: Alyssa Pentz - [events@luxfordpta.org](mailto:events@luxfordpta.org)
 
 ---
 
-## 📢 Stay Updated
+## � Contact Information
+
+**PTA President:** Ashley Watkinson - [president@luxfordpta.org](mailto:president@luxfordpta.org)  
+**Volunteer Coordinator:** Alyssa Pentz - [volunteer@luxfordpta.org](mailto:volunteer@luxfordpta.org)  
+**General Information:** [info@luxfordpta.org](mailto:info@luxfordpta.org)
+
+---
+
+## �📢 Stay Updated
 
 - **School Newsletter** - Monthly updates sent home
 - **PTA Facebook Page** - [Luxford Elementary PTA](http://facebook.com/luxfordpta)

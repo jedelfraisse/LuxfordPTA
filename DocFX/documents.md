@@ -49,7 +49,7 @@ Here you can find important PTA documents, meeting minutes, financial reports, a
 
 If you need a specific document that's not listed here, please contact:
 
-**PTA Secretary:** Lisa Parker  
+**PTA Secretary:** TBD 
 **Email:** [secretary@luxfordpta.org](mailto:secretary@luxfordpta.org)  
 **Phone:** (757) 123-4567
 
