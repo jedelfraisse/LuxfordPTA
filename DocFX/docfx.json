@@ -20,6 +20,11 @@
       }
     ],
     "dest": "_site",
+    "globalMetadata": {
+      "_appLogoPath": "images/pta-logo.png",
+      "_appName": "Luxford Elementary PTA",
+      "_appTitle": "Luxford Elementary PTA"
+    },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
