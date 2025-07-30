@@ -1,6 +1,9 @@
-# Luxford Elementary PTA Even## 📅 Upcoming Eventss
+# Luxford Elementary PTA Events
 
 Welcome to our events page! Here you can find information about all upcoming PTA events organized by category to help you find exactly what you're looking for.
+
+## 📅 **[Download Printable Event Calendar →](../images/monthlyevents-2526.jpg)**
+*Print and post this handy calendar with all events for the 2025-2026 school year!*
 
 ---
 
@@ -14,7 +17,7 @@ Events focused on raising funds to support school programs, equipment, and activ
 - Fall Festival  
 - Fall Book Fair
 
-### �‍👩‍👧‍👦 [Student/Family/Community Support](community-events.md)
+### 👨‍👩‍👧‍👦 [Student/Family/Community Support](community-events.md)
 Events designed to build community, support families, and create fun experiences for students.
 - PTA Board Election 2025-2026
 - PTA Back to School Event
@@ -27,7 +30,7 @@ Events focused on supporting our educators, staff, and school operations.
 
 ---
 
-## �📅 Upcoming Events
+## 📅 Upcoming Events
 
 ### PTA Board Election 2025-2026
 **Date:** August 20, 2025  
@@ -57,13 +60,6 @@ Visit your child's classroom and meet their teacher for the year.
 Browse and purchase books to support reading and fund library programs.  
 **[View Schedule & Info →](fall-book-fair.md)**
 
-### Trunk or Treat & Halloween Costume Contest
-**Date:** October 24, 2025  
-**Time:** 6:30 PM - 8:00 PM  
-**Location:** School Bus Loop  
-Trunk or treat in the bus loop with costume contest photos and voting.  
-**[View Contest Details →](trunk-or-treat.md)**
-
 ### Chuck E. Cheese Night
 **Date:** September 18, 2025  
 **Time:** TBD  
@@ -73,107 +69,11 @@ Family fun night with games, food, and prizes!
 ### Skate Night
 **Date:** September 30, 2025  
 **Time:** TBD  
-**Location:** Local Skating Rink  
+**Location:** Haygood Skating Center  
 Lace up for a fun evening of skating with Luxford families.  
 **[View Skate Night Details →](skate-night.md)**
 
-### Bingo Night Fundraiser
-**Date:** November 7, 2025  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** School Cafeteria  
-Family-friendly Bingo night with great prizes!  
-**[View Game Details →](bingo-night.md)**
-
-### Dave & Busters Night
-**Date:** November 19, 2025  
-**Time:** TBD  
-**Location:** Dave & Busters  
-Arcade games, food, and family fun at Dave & Busters.
-
-### Village Inn Night
-**Date:** December 7, 2025  
-**Time:** TBD  
-**Location:** Village Inn  
-Dine out and support our PTA at Village Inn.
-
-### Superhero Ice Cream Social
-**Date:** January 7, 2026  
-**Time:** TBD  
-**Location:** School Cafeteria  
-Come dressed as your favorite superhero for ice cream and fun!
-
-### Bingo Night Fundraiser
-**Date:** January 16, 2026  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** School Cafeteria  
-Another chance to win big at our popular Bingo night!
-
-### Mission Laser Tag
-**Date:** February 5, 2026  
-**Time:** TBD  
-**Location:** Mission Laser Tag  
-Action-packed laser tag fun for the whole family.
-
-### Valentine's Dance
-**Date:** February 13, 2026  
-**Time:** TBD  
-**Location:** School Cafeteria  
-Dance the night away at our Valentine's themed family dance.
-
-### Chuck E. Cheese Night
-**Date:** March 6, 2026  
-**Time:** TBD  
-**Location:** Chuck E. Cheese  
-Another fun night at Chuck E. Cheese with games and prizes!
-
-### Donuts with Dads & March Madness
-**Date:** March 16-17, 2026  
-**Time:** TBD  
-**Location:** School Cafeteria  
-Dads and kids enjoy donuts together while filling out March Madness brackets.
-
-### Village Inn Night
-**Date:** March 29, 2026  
-**Time:** TBD  
-**Location:** Village Inn  
-Spring dining out to support our PTA.
-
-### Spring Carnival
-**Date:** April 17, 2026  
-**Time:** TBD  
-**Location:** School Campus  
-Our biggest fundraising event with games, food, and family fun!
-
-### Skate Night
-**Date:** April 27, 2026  
-**Time:** TBD  
-**Location:** Local Skating Rink  
-Spring skating fun for all families.  
-**[View Skate Night Details →](skate-night.md)**
-
-### Muffins with Moms
-**Date:** May 4-5, 2026  
-**Time:** TBD  
-**Location:** School Cafeteria  
-Moms and kids share muffins and special time together.
-
-### Talent Show
-**Date:** May 15, 2026  
-**Time:** TBD  
-**Location:** School Auditorium  
-Students showcase their amazing talents!
-
-### Field Day
-**Date:** June 2026 (TBD)  
-**Time:** TBD  
-**Location:** School Campus  
-End-of-year field day activities and games.
-
-### Fifth Grade Graduation Celebration
-**Date:** June 2026 (TBD)  
-**Time:** TBD  
-**Location:** School Auditorium  
-Celebrating our graduating fifth graders!
+*For the complete year-long event calendar, see the categories above or download the printable schedule.*
 
 ---
 

@@ -6,13 +6,13 @@ Events focused on raising funds to support school programs, equipment, and activ
 
 ## Upcoming Fundraising Events
 
-### Bingo Night Fundraiser
-**Date:** TBD  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** School Cafeteria  
-Family-friendly Bingo night with great prizes! All proceeds support PTA programs and student activities.
+### Fall Book Fair
+**Date:** September 16-20, 2025  
+**Time:** Various times during school week  
+**Location:** School Library  
+Browse and purchase books to support your child's reading and help fund library programs.
 
-**[View Game Details & Prize Info →](bingo-night.md)**
+**[View Schedule & Book Info →](fall-book-fair.md)**
 
 ### Fall Festival
 **Date:** October 25, 2025  
@@ -22,13 +22,27 @@ Family-friendly festival with games, food trucks, and seasonal activities.
 
 **[View Festival Details & Volunteer Info →](fall-festival.md)**
 
-### Fall Book Fair
-**Date:** September 16-20, 2025  
-**Time:** Various times during school week  
-**Location:** School Library  
-Browse and purchase books to support your child's reading and help fund library programs.
+### Bingo Night Fundraiser
+**Date:** November 7, 2025  
+**Time:** 6:00 PM - 8:00 PM  
+**Location:** School Cafeteria  
+Family-friendly Bingo night with great prizes! All proceeds support PTA programs and student activities.
 
-**[View Schedule & Book Info →](fall-book-fair.md)**
+**[View Game Details & Prize Info →](bingo-night.md)**
+
+### Bingo Night Fundraiser
+**Date:** January 16, 2026  
+**Time:** 6:00 PM - 8:00 PM  
+**Location:** School Cafeteria  
+Another chance to win big at our popular Bingo night fundraiser!
+
+**[View Game Details & Prize Info →](bingo-night.md)**
+
+### Spring Carnival
+**Date:** April 17, 2026  
+**Time:** TBD  
+**Location:** School Campus  
+Our biggest fundraising event with games, food, and family fun!
 
 ---
 
