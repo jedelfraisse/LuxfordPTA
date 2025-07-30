@@ -13,20 +13,12 @@ Browse our events by category:
 
 ### 🎯 [Fundraising Events](fundraising-events.md)
 Events focused on raising funds to support school programs, equipment, and activities.
-- Bingo Night Fundraiser
-- Fall Festival  
-- Fall Book Fair
 
 ### 👨‍👩‍👧‍👦 [Student/Family/Community Support](community-events.md)
 Events designed to build community, support families, and create fun experiences for students.
-- PTA Board Election 2025-2026
-- PTA Back to School Event
-- Trunk or Treat & Halloween Costume Contest
 
 ### 🏫 [School/Teacher/Staff Support](school-support-events.md)
 Events focused on supporting our educators, staff, and school operations.
-- Meet the Teacher Night
-- Teacher Appreciation Events
 
 ---
 
