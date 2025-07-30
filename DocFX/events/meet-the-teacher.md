@@ -159,7 +159,7 @@ Learn about PTA programs that support classroom learning:
 
 **School Main Office:** (757) 648-3200  
 **Principal Dr. Martinez:** [martinez@vbschools.com](mailto:martinez@vbschools.com)  
-**PTA President Sarah Johnson:** [president@luxfordpta.org](mailto:president@luxfordpta.org)
+**PTA President Sarah Johnson:** TBD
 
 **For questions about Meet the Teacher Night:**  
 **Assistant Principal Mrs. Thompson:** [thompson@vbschools.com](mailto:thompson@vbschools.com)

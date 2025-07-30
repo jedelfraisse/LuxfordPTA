@@ -94,7 +94,7 @@ You may want to ask candidates about:
 
 - **Meeting duration:** 45 minutes (11:45 AM - 12:30 PM)
 - **Child-friendly timing:** Short daytime meeting
-- **For questions:** Contact [election@luxfordpta.org](mailto:election@luxfordpta.org)
+- **For questions:** Contact TBD
 
 ### Accessibility
 - **Wheelchair accessible** venue and voting area
@@ -154,11 +154,11 @@ A: Each family membership gets one vote, regardless of how many parents attend.
 ## Contact Information
 
 **Election Coordinator:** Current PTA Secretary  
-**Email:** [election@luxfordpta.org](mailto:election@luxfordpta.org)  
+**Email:** TBD  
 **Phone:** (757) 123-4567
 
 **For Membership Questions:**  
-**Email:** [membership@luxfordpta.org](mailto:membership@luxfordpta.org)
+**Email:** TBD
 
 **School Main Office:** (757) 648-3200
 

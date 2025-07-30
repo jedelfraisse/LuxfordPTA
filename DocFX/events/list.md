@@ -1,6 +1,10 @@
 # Luxford Elementary PTA Events
 
-Welcome to our events page! Here you can find information about all upcomiPlease contact our Event Coordinator: [events@luxfordpta.org](mailto:events@luxfordpta.org)
+Welcome to our events page! Here you can find information about all upcomiPleaPlease contact our Event Coordinator: TBD
+
+---
+
+## 📢 Stay Updatedr Event Coordinator: TBD
 
 ---
 

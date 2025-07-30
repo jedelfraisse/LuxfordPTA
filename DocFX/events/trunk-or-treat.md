@@ -54,7 +54,7 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - **Stay until 3:00 PM** for the full event
 - **Prizes** for most creative trunk decorations
 
-**Sign up:** [trunkortreat@luxfordpta.org](mailto:trunkortreat@luxfordpta.org)
+**Sign up:** TBD
 
 ## Costume Contest Categories
 
@@ -152,7 +152,7 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - **Setup/Cleanup** - Prepare gym and assist with activities
 - **Treat Distribution** - Help give out prizes and treats
 
-**Volunteer signup:** [events@luxfordpta.org](mailto:events@luxfordpta.org)
+**Volunteer signup:** TBD
 
 ## Costume Tips for Parents
 
@@ -217,7 +217,7 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 ## Contact Information
 
 **Event Coordinator:** Jennifer Smith  
-**Email:** [events@luxfordpta.org](mailto:events@luxfordpta.org)  
+**Email:** TBD  
 **Phone:** (757) 123-4567
 
 **School Main Office:** (757) 648-3200  

@@ -44,7 +44,7 @@ We're currently looking for help with:
 2. **Vote in our Board Election** - August 20, 2025 at 11:45 AM - 12:30 PM in the school cafeteria
 3. **Attend the Back to School Event** - August 21, 2025 at 3:00 PM - 5:00 PM to meet the new board
 4. **Attend a PTA Meeting** - First Tuesday of each month at 7:00 PM (starting September)
-5. **Contact Our Volunteer Coordinator** - [volunteer@luxfordpta.org](mailto:volunteer@luxfordpta.org)
+5. **Contact Our Volunteer Coordinator** - TBD
 6. **Fill Out Our Interest Form** - Available at the school office
 7. **Join Our Facebook Group** - Stay updated on volunteer opportunities
 
@@ -79,9 +79,9 @@ Luxford Elementary School Cafeteria
 
 **During Leadership Transition (through August 31):**
 
-**General Information:** [info@luxfordpta.org](mailto:info@luxfordpta.org)  
-**Volunteer Questions:** [volunteer@luxfordpta.org](mailto:volunteer@luxfordpta.org)  
-**Election Questions:** [election@luxfordpta.org](mailto:election@luxfordpta.org)  
+**General Information:** TBD  
+**Volunteer Questions:** TBD  
+**Election Questions:** TBD  
 **Phone:** (757) 123-4567
 
 **New Board Contact (starting September 1):**  
