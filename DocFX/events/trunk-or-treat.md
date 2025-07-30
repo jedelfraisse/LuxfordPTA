@@ -33,6 +33,7 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - **Best Student (2nd - 3rd Grade)** - Individual student costume
 - **Best Student (4th - 5th Grade)** - Individual student costume
 - **Best Teacher & Staff** - Individual teacher/staff costume
+- **Best Group** - Group themed costumes
 - **Best Trunk** - Most creative trunk decoration
 
 ## Trunk or Treat Details
