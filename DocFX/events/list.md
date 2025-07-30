@@ -25,6 +25,14 @@ Events focused on supporting our educators, staff, and school operations.
 
 ## 🎯 Fundraising Events
 
+### Bingo Night Fundraiser
+**Date:** TBD  
+**Time:** 6:00 PM - 8:00 PM  
+**Location:** School Cafeteria  
+Family-friendly Bingo night with great prizes! All proceeds support PTA programs and student activities.
+
+**[View Game Details & Prize Info →](bingo-night.md)**
+
 ### Fall Festival
 **Date:** October 25, 2025  
 **Time:** 5:00 PM - 8:00 PM  
