@@ -5,7 +5,7 @@ Here you can find important PTA documents, meeting minutes, financial reports, a
 ## Current School Year Documents (2025-2026)
 
 ### Financial Documents
-- **[Annual Budget 2025-2026](documents/budget-2025-2026.pdf)** *(Coming Soon)*
+- **[Annual Budget 2025-2026](documents/BudgetReport2025-2026.pdf)** *(Last Updated: 07/31/25)*
 - **[Treasurer's Report - July 2025](documents/treasurer-report-july-2025.pdf)** *(Coming Soon)*
 - **[Fundraising Summary 2024-2025](documents/fundraising-summary-2024-2025.pdf)** *(Coming Soon)*
 
