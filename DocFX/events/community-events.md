@@ -107,10 +107,12 @@ Spring skating fun for all families.
 Moms and kids share muffins and special time together.
 
 ### Talent Show
-**Date:** May 15, 2026  
+**Date:** TBD (Spring 2026)  
 **Time:** TBD  
 **Location:** School Auditorium  
-Students showcase their amazing talents!
+Students, families, and staff showcase their amazing talents in this annual celebration of our school community's diverse abilities and creativity!
+
+**[View Talent Show Details & Registration →](talent-show.md)**
 
 ### Field Day
 **Date:** June 2026 (TBD)  

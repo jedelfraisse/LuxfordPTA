@@ -27,7 +27,7 @@ Join us for our exciting Skate Nights! These family-friendly events bring our co
 ## What to Expect
 
 ### Skating Options
-- **Roller skating** or **Ice skating** (venue dependent)
+- **Roller skating**
 - **All skill levels** welcome - from beginners to experienced skaters
 - **Family-friendly music** - Upbeat songs everyone can enjoy
 - **Games and activities** - Special skating games throughout the event

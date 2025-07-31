@@ -20,12 +20,26 @@ Here you can find important PTA documents, meeting minutes, financial reports, a
 
 ## Forms & Applications
 
-### Volunteer Forms
-- **[Volunteer Application](documents/volunteer-application.pdf)** *(Coming Soon)*
-- **[Background Check Form](documents/background-check-form.pdf)** *(Coming Soon)*
-- **[Room Parent Agreement](documents/room-parent-agreement.pdf)** *(Coming Soon)*
+### Volunteer Registration
+**All volunteers must register through SignUp Genius before participating in PTA or school activities.**
 
-### Event Forms
+**[Register to Volunteer for 2025-26 →](https://www.signupgenius.com/go/10C0B44AAAE2BA2F5C25-57354683-2526#/)**
+
+#### Steps to Complete Volunteer Registration:
+1. **[Watch the VB Schools Safety Video →](https://share.synthesia.io/85cac81c-b537-430d-b06d-b985c9bead1d)**
+2. **[Review the VB Schools Guidelines for Volunteers and Partners →](https://resources.finalsite.net/images/v1719260417/vbschoolscom/ne7t8zdnjksur1p5zorm/vol_guidelines.pdf)**
+3. **Click the registration link above** to go directly to the 2025-26 volunteer registration
+4. **Click Save & Continue** at the bottom of the page
+5. **Enter your information:** First Name, Last Name, and Email Address
+6. **Answer all required questions** and click Sign Up Now
+
+*Complete your volunteer registration on SignUp Genius to:*
+- Sign up for specific volunteer opportunities
+- Complete required background check information
+- Access volunteer schedules and updates
+- Receive important volunteer communications
+
+### Additional Forms
 - **[Event Proposal Form](documents/event-proposal-form.pdf)** *(Coming Soon)*
 - **[Fundraising Request Form](documents/fundraising-request-form.pdf)** *(Coming Soon)*
 
@@ -49,9 +63,11 @@ Here you can find important PTA documents, meeting minutes, financial reports, a
 
 If you need a specific document that's not listed here, please contact:
 
-**PTA Secretary:** TBD 
+**PTA Secretary:** TBD  
 **Email:** TBD  
 **Phone:** (757) 123-4567
+
+**For volunteer opportunities and registration:** [SignUp Genius - LuxfordES](https://www.signupgenius.com/org/LuxfordES#/)
 
 ## Upload Instructions for PTA Officers
 
