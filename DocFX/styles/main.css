@@ -2,17 +2,17 @@
 
 /* Logo sizing - make it much smaller to fit properly in header */
 .navbar-brand img#logo,
-.navbar-header img#logo,
-#logo,
-.navbar-brand img,
-.navbar-header img {
+#logo {
     max-height: 40px !important;
     max-width: 40px !important;
-    height: auto !important;
-    width: auto !important;
+    height: 40px !important;
+    width: 40px !important;
     object-fit: contain !important;
     aspect-ratio: 1 / 1 !important;
     display: inline-block !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    vertical-align: middle !important;
 }
 
 /* Ensure logo doesn't break layout on mobile */
