@@ -1,25 +1,18 @@
 /* Custom styles for Luxford Elementary PTA website */
 
 /* Logo sizing - make it much smaller to fit properly in header */
-.navbar-brand img {
+.navbar-brand img#logo,
+.navbar-header img#logo,
+#logo,
+.navbar-brand img,
+.navbar-header img {
     max-height: 40px !important;
+    max-width: 40px !important;
+    height: auto !important;
     width: auto !important;
-    max-width: 150px !important;
-}
-
-#logo {
-    max-height: 40px;
-    max-width: 40px;
-    width: auto;
-    height: auto;
-}
-
-/* Alternative selector in case the above doesn't work */
-.navbar-header img,
-.navbar-brand > img {
-    max-height: 40px !important;
-    width: auto !important;
-    max-width: 150px !important;
+    object-fit: contain !important;
+    aspect-ratio: 1 / 1 !important;
+    display: inline-block !important;
 }
 
 /* Ensure logo doesn't break layout on mobile */
