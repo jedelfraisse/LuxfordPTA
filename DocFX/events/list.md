@@ -69,16 +69,18 @@ Lace up for a fun evening of skating with Luxford families.
 
 ---
 
-## 📅 Regular Monthly Events
 
-### PTA General Meetings
-**When:** First Tuesday of each month at 7:00 PM  
-**Where:** School Cafeteria  
-**Next Meeting:** September 3, 2025 (First meeting with new board)
+## 📅 General Membership Meetings
 
-**Special Election Meeting:** August 20, 2025 at 11:45 AM for board elections.
+The PTA will hold three General Membership Meetings during the 2025-2026 school year:
 
-All parents and guardians are welcome to attend our monthly meetings to stay informed about school activities and have a voice in PTA decisions. The new board elected on August 20th will lead these meetings starting in September.
+- **October**  
+- **January**  
+- **May**
+
+All parents and guardians are encouraged to attend these meetings to stay informed about school activities, participate in important decisions, and connect with the PTA board and other families. Specific dates and times will be announced in advance of each meeting.
+
+Before each PTA event, we will hold a planning event to gather input, discuss agenda items, and coordinate upcoming activities. These planning sessions may be virtual or held at the school, and all are welcome to participate to help make every event a success.
 
 ---
 
