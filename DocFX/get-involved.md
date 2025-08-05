@@ -65,15 +65,15 @@ The Luxford Elementary PTA is currently in transition for the new school year.
 August 20, 2025 at 11:45 AM - 12:30 PM  
 Luxford Elementary School Cafeteria
 
-**PTA General Meetings (Starting September):**  
-First Tuesday of each month at 7:00 PM  
-Luxford Elementary School Cafeteria
+**PTA General Membership Meetings (2025-2026):**  
+We will hold three General Membership Meetings this school year:
+- **October** (Date & time TBA)
+- **January** (Date & time TBA)
+- **May** (Date & time TBA)
 
-**Upcoming Meetings:**
-- September 3, 2025 (First meeting with new board)
-- October 1, 2025
-- November 5, 2025
-- December 3, 2025
+All parents and guardians are encouraged to attend these meetings to stay informed, participate in important decisions, and connect with the PTA board and other families. Specific dates and times will be announced in advance of each meeting.
+
+Before each PTA event, we will hold a planning session (virtual or at school) to gather input, discuss agenda items, and coordinate activities. Everyone is welcome to participate!
 
 ## Contact Information
 
