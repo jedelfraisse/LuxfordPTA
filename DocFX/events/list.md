@@ -36,14 +36,7 @@ Vote for our 2025-2026 leadership team. Meet the candidates and cast your vote!
 **Time:** 3:00 PM - 5:00 PM  
 **Location:** School Campus  
 Meet the new board, learn about programs, and discover how to get involved.  
-**[View Event Details →](back-to-school-night.md)**
-
-### Meet the Teacher Night
-**Date:** September 3, 2025  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** Individual Classrooms  
-Visit your child's classroom and meet their teacher for the year.  
-**[View Details & Tips →](meet-the-teacher.md)**
+**[View Back to School Event →](pta-back-to-school.md)**
 
 ### Fall Book Fair
 **Date:** September 16-20, 2025  

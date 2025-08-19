@@ -47,6 +47,13 @@ The Luxford Elementary PTA is currently in transition for the 2025-2026 school y
 - **Who can vote:** Current PTA members and new members who join before the election
 - **Membership:** [Join online at our web store](https://luxfordpta.givebacks.com/)
 
+<div style="margin-top:8px; display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+  <a href="https://www.zeffy.com/en-US/ticketing/luxford-elementary-ptas-memberships" title="Join Luxford PTA online" style="display:inline-block;">
+    <img src="images/membership-qr.jpg" alt="Join Luxford PTA - scan to join" style="max-height:100px; width:auto; border:1px solid #ddd; padding:4px; background:#fff;" />
+  </a>  
+    <img src="images/familypackage.jpg" alt="Luxford Family Package" style="max-height:100px; width:auto; border:1px solid #ddd; padding:4px; background:#fff;" />
+
+</div>
 
 ## Contact Us
 

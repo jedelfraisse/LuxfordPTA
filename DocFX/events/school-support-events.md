@@ -4,18 +4,6 @@ Events focused on supporting our educators, staff, and school operations.
 
 ---
 
-## Upcoming Support Events
-
-### Meet the Teacher Night
-**Date:** September 3, 2025  
-**Time:** 6:00 PM - 8:00 PM  
-**Location:** Individual Classrooms  
-Visit your child's classroom, meet their teacher, and learn about the curriculum for the year.
-
-**[View Full Details & Tips →](meet-the-teacher.md)**
-
----
-
 ## Supporting Our Amazing Educators
 
 ### Why Teacher Support Matters
