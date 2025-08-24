@@ -41,12 +41,8 @@ To enhance the educational experience of every student at Luxford Elementary by:
 
 ## Contact Us
 
-**General Questions:** [luxfordpta@gmail.com](mailto:luxfordpta@gmail.com)  
-**Phone:** (757) 123-4567  
-**Mailing Address:**  
-Luxford Elementary PTA  
-4808 Haygood Rd  
-Virginia Beach, VA 23455
+**General Questions:** [luxfordpta1@gmail.com](mailto:luxfordpta1@gmail.com)  
+
 
 ---
 
