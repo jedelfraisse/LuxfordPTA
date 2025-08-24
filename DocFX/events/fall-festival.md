@@ -74,7 +74,7 @@ Since our festival is close to Halloween, we're having a mini costume contest!
 ### Live Entertainment Schedule
 
 #### 5:00 PM - 5:30 PM: Opening Ceremony
-- **Welcome** by Principal Dr. Martinez
+- **Welcome** by Principal James Daub
 - **PTA Recognition** of volunteers and supporters
 - **Festival Rules** and safety reminders
 
@@ -225,11 +225,12 @@ We need 60+ volunteers to make this festival amazing!
 
 ## Contact Information
 
-**Festival Chair:** Amanda Davis  
+**Festival Chair:** TBD
 **Email:** [fallfestival@luxfordpta.org](mailto:fallfestival@luxfordpta.org)  
 **Phone:** (757) 123-4567
 
-**Volunteer Coordinator:** Jennifer Smith  
+**Volunteer Coordinator:** Alyssa Pentz  
+**Email:** alyssapentz@yahoo.com  
 **Email:** [volunteer@luxfordpta.org](mailto:volunteer@luxfordpta.org)
 
 **Emergency Contact (Day of Event):** (757) 555-FEST

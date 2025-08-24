@@ -84,11 +84,12 @@ Our goal is to raise **$15,000** to support:
 
 ## Contact Information
 
-**Event Chair:** Amanda Davis  
+**Event Chair:** TBD  
 **Email:** [fundraising@luxfordpta.org](mailto:fundraising@luxfordpta.org)  
 **Phone:** (757) 123-4567
 
-**Volunteer Coordinator:** Jennifer Smith  
+**Volunteer Coordinator:** Alyssa Pentz  
+**Email:** alyssapentz@yahoo.com  
 **Email:** [volunteer@luxfordpta.org](mailto:volunteer@luxfordpta.org)
 
 ## Weather Policy

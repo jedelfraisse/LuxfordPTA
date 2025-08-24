@@ -6,14 +6,6 @@ Events focused on raising funds to support school programs, equipment, and activ
 
 ## Upcoming Fundraising Events
 
-### Fall Book Fair
-**Date:** September 16-20, 2025  
-**Time:** Various times during school week  
-**Location:** School Library  
-Browse and purchase books to support your child's reading and help fund library programs.
-
-**[View Schedule & Book Info →](fall-book-fair.md)**
-
 ### Fall Festival
 **Date:** October 25, 2025  
 **Time:** 5:00 PM - 8:00 PM  

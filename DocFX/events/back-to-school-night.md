@@ -39,7 +39,7 @@ Join us for an exciting afternoon to kick off the new school year! This is your 
 
 ### Committee Chairs
 - **Fundraising Chair:** Amanda Davis - Organizing events that support our school
-- **Volunteer Coordinator:** Jennifer Smith - Matching talents with opportunities
+- **Volunteer Coordinator:** Alyssa Pentz - Matching talents with opportunities (alyssapentz@yahoo.com)
 - **Communications Chair:** David Martinez - Keeping families informed
 - **Hospitality Chair:** Rebecca Wilson - Creating welcoming community events
 

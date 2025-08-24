@@ -41,29 +41,12 @@ We're currently looking for help with:
 ## How to Get Started
 
 1. **Join the PTA** - [Purchase membership online](https://luxfordpta.givebacks.com/shop) or at any meeting
-2. **Vote in our Board Election** - August 20, 2025 at 11:45 AM - 12:30 PM in the school cafeteria
-3. **Attend the Back to School Event** - August 21, 2025 at 3:00 PM - 5:00 PM to meet the new board
-4. **Attend a PTA Meeting** - First Tuesday of each month at 7:00 PM (starting September)
-5. **Contact Our Volunteer Coordinator** - TBD
-6. **Fill Out Our Interest Form** - Available at the school office
-7. **Join Our Facebook Group** - Stay updated on volunteer opportunities
-
-## 2025-2026 Leadership Transition
-
-The Luxford Elementary PTA is currently in transition for the new school year. 
-
-### Important Upcoming Events
-- **PTA Board Election:** August 20, 2025 at 11:45 AM - 12:30 PM
-- **Back to School Event:** August 21, 2025 at 3:00 PM - 5:00 PM  
-- **New Board Takes Office:** September 1, 2025
-
-**[Learn about the candidates and election process →](events/pta-board-election.md)**
+2. **Attend a PTA Meeting** - First Tuesday of each month at 7:00 PM (starting September)
+3. **Contact Our Volunteer Coordinator** - Alyssa Pentz (alyssapentz@yahoo.com)
+4. **Fill Out Our Interest Form** - Available at the school office
+5. **Join Our Facebook Group** - Stay updated on volunteer opportunities
 
 ## Meeting Schedule
-
-**Special Election Meeting:**  
-August 20, 2025 at 11:45 AM - 12:30 PM  
-Luxford Elementary School Cafeteria
 
 **PTA General Membership Meetings (2025-2026):**  
 We will hold three General Membership Meetings this school year:
@@ -79,13 +62,8 @@ Before each PTA event, we will hold a planning session (virtual or at school) to
 
 **During Leadership Transition (through August 31):**
 
-**General Information:** TBD  
-**Volunteer Questions:** TBD  
-**Election Questions:** TBD  
-**Phone:** (757) 123-4567
-
-**New Board Contact (starting September 1):**  
-Contact information will be updated after the August 20th election.
+**General Information:** Ashley Watkinson - luxfordpta1@gmail.com 
+**Volunteer Questions:** Alyssa Pentz - alyssapentz@yahoo.com
 
 ---
 

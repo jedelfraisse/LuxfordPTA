@@ -171,12 +171,12 @@ We need parent volunteers to make our Book Fair successful!
 
 ## Contact Information
 
-**Book Fair Chair:** Rebecca Wilson  
+**Book Fair Chair:** TBD  
 **Email:** [bookfair@luxfordpta.org](mailto:bookfair@luxfordpta.org)  
 **Phone:** (757) 123-4567
 
-**School Librarian:** Mrs. Anderson  
-**Email:** [anderson@vbschools.com](mailto:anderson@vbschools.com)
+**School Librarian:**   
+**Email:** [@vbschools.com](mailto:@vbschools.com)
 
 **Scholastic Representative:** Jennifer Martinez  
 **Phone:** (757) 555-0123

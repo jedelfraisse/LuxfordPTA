@@ -12,6 +12,16 @@ The Luxford Elementary PTA is committed to fostering a strong partnership betwee
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455  
 **Website:** [https://luxfordes.vbschools.com/](https://luxfordes.vbschools.com/)
 
+## 🦕 Luxford Elementary PTA Board Members  
+**2025–2026**
+
+- **President:** Ashley Watkinson  
+- **Vice President:** Katie Delfraisse  
+- **Treasurer:** Jonathan Delfraisse  
+- **Secretary:** Ashley Weidrick  
+- **Volunteer Coordinator:** Alyssa Pentz  
+- **Events Chair:** Ashley Threadgill
+
 ## Our Mission
 
 To enhance the educational experience of every student at Luxford Elementary by:
@@ -28,32 +38,6 @@ To enhance the educational experience of every student at Luxford Elementary by:
 - **[Givebacks](givebacks.md)** - Join PTA membership & support through everyday purchases
 - **[Documents](documents.md)** - Access important PTA documents and reports
 - **[Contact Us](#contact-us)** - Reach out with questions or ideas
-
-## PTA Leadership Transition
-
-The Luxford Elementary PTA is currently in transition for the 2025-2026 school year. Our **PTA Board Election** will be held on **August 20, 2025** at **11:45 AM - 12:30 PM** in the school cafeteria.
-
-### Current Nominees for 2025-2026 Board
-
-**President:** Ashley Watkinson  
-**Vice President:** Katie Delfraisse, Kalena Mohr  
-**Treasurer:** Jonathan Delfraisse  
-**Secretary:** Ashley Weidrick  
-**Volunteer Coordinator:** Alyssa Pentz
-
-**[Learn more about the candidates and election process →](events/pta-board-election.md)**
-
-### Important Election Information
-- **Who can vote:** Current PTA members and new members who join before the election
-- **Membership:** [Join online at our web store](https://luxfordpta.givebacks.com/)
-
-<div style="margin-top:8px; display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
-  <a href="https://www.zeffy.com/en-US/ticketing/luxford-elementary-ptas-memberships" title="Join Luxford PTA online" style="display:inline-block;">
-    <img src="images/membership-qr.jpg" alt="Join Luxford PTA - scan to join" style="max-height:100px; width:auto; border:1px solid #ddd; padding:4px; background:#fff;" />
-  </a>  
-    <img src="images/familypackage.jpg" alt="Luxford Family Package" style="max-height:100px; width:auto; border:1px solid #ddd; padding:4px; background:#fff;" />
-
-</div>
 
 ## Contact Us
 

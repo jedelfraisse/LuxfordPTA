@@ -7,6 +7,7 @@ Welcome to our events page! Here you can find information about all upcoming PTA
 
 ---
 
+
 ## Event Categories
 
 Browse our events by category:
@@ -20,76 +21,98 @@ Events designed to build community, support families, and create fun experiences
 ### 🏫 [School/Teacher/Staff Support](school-support-events.md)
 Events focused on supporting our educators, staff, and school operations.
 
+### 📅 [School Closed & Special Days](school-closed-days.md)
+All holidays, staff days, and special schedule days for the school year.
+
 ---
 
 ## 📅 Upcoming Events
 
 ### PTA Board Election 2025-2026
 **Date:** August 20, 2025  
-**Time:** 11:45 AM - 12:30 PM  
-**Location:** School Cafeteria  
-Vote for our 2025-2026 leadership team. Meet the candidates and cast your vote!  
-**[View Election Details →](pta-board-election.md)**
 
-### PTA Back to School Event
-**Date:** August 21, 2025  
-**Time:** 3:00 PM - 5:00 PM  
-**Location:** School Campus  
-Meet the new board, learn about programs, and discover how to get involved.  
-**[View Back to School Event →](pta-back-to-school.md)**
+# Luxford Elementary PTA Events
 
-### Fall Book Fair
-**Date:** September 16-20, 2025  
-**Time:** Various times during school week  
-**Location:** School Library  
-Browse and purchase books to support reading and fund library programs.  
-**[View Schedule & Info →](fall-book-fair.md)**
+Welcome to our events page! Here you can find information about all PTA events, organized for easy reference.
 
-### Chuck E. Cheese Night
-**Date:** September 18, 2025  
-**Time:** TBD  
-**Location:** Chuck E. Cheese  
-Family fun night with games, food, and prizes!
-
-### Skate Night
-**Date:** September 30, 2025  
-**Time:** TBD  
-**Location:** Haygood Skating Center  
-Lace up for a fun evening of skating with Luxford families.  
-**[View Skate Night Details →](skate-night.md)**
-
-*For the complete year-long event calendar, see the categories above or download the printable schedule.*
+## 📅 **[Download Printable Event Calendar →](../images/monthlyevents-2526.jpg)**
+*Print and post this handy calendar with all events for the 2025-2026 school year!*
 
 ---
 
 
-## 📅 General Membership Meetings
+## 📅 Very Near Events
 
-The PTA will hold three General Membership Meetings during the 2025-2026 school year:
+Events happening in the next 30 days:
 
-- **October**  
-- **January**  
-- **May**
+- **First Day of School**  
+	August 25, 2025  
+	Welcome back, students and families! We hope you have a fantastic start to the new school year.
 
-All parents and guardians are encouraged to attend these meetings to stay informed about school activities, participate in important decisions, and connect with the PTA board and other families. Specific dates and times will be announced in advance of each meeting.
+---
 
-Before each PTA event, we will hold a planning event to gather input, discuss agenda items, and coordinate upcoming activities. These planning sessions may be virtual or held at the school, and all are welcome to participate to help make every event a success.
+## 📅 Future Events
+
+- **Chuck E. Cheese Night** – September 18, 2025, Chuck E. Cheese
+- **Skate Night** – September 30, 2025, Haygood Skating Center ([Details](skate-night.md))
+- **Fall Festival** – October 25, 2025, School Campus ([Details](fall-festival.md))
+- **Bingo Night** – November 7, 2025, School Cafeteria ([Details](bingo-night.md))
+- **Talent Show** – May 15, 2026, School Auditorium ([Details](talent-show.md))
+- **General Membership Meetings:** October, January, May (dates TBA)
+
+---
+
+## 🕰️ Past Events
+
+
+### 2025-2026 School Year
+- **PTA Board Election 2025-2026** – August 20, 2025, School Cafeteria: Elected the new board for the year. [View Election Details →](pta-board-election.md)
+- **PTA Back to School Event** – August 21, 2025, School Campus: Welcomed families and introduced the new board. [View Event Details →](back-to-school-night.md)
+
+### 2024–2025 School Year
+- **Spring Carnival** – April 2025: Over 200 attendees, raised $2,000!
+- **Book Fair** – March 2025: Thank you to all our volunteers!
+
+### 2023–2024 School Year
+- **Fall Festival** – October 2023: Games, food, and fun for all ages.
+- **Bingo Night** – January 2024: Family fun and fundraising success.
 
 ---
 
 ## 🙋‍♀️ Get Involved
 
-We're always looking for volunteers to help make our events successful! Contact our Event Coordinator: TBD
+We're always looking for volunteers to help make our events successful! Contact our Event Coordinator: Ashley Threadgill
 
 ---
 
-## 📢 Stay Updated
 
-- **School Newsletter** - Monthly updates sent home
-- **PTA Facebook Page** - [Luxford Elementary PTA](http://facebook.com/luxfordpta)
-- **School Website** - [luxfordes.vbschools.com](https://luxfordes.vbschools.com/)
-- **Email List** - Contact us at: TBD
+---
+
+## 🏫 School Closed & Special Days (2025–2026)
+
+### Holidays (School Closed)
+- **Labor Day:** August 29, 2025 and September 1, 2025
+- **Veterans Day:** November 11, 2025
+- **Thanksgiving:** November 26–28, 2025
+- **Winter Break:** December 22–31, 2025 and January 1–2, 2026
+- **Martin Luther King Jr. Day:** January 19, 2026
+- **Presidents Day:** February 16, 2026
+- **Spring Break:** April 6–10, 2026
+- **Memorial Day:** May 25, 2026
+- **Juneteenth:** June 19, 2026
+
+### Adjusted Dismissal Days
+- **All Students:** June 12, 2026
+- **High School Students:** June 9–11, 2026
+
+### Staff Days (School Closed for Students)
+- August 18–22, 2025
+- September 29, 2025
+- November 3, 2025
+- January 26–27, 2026
+- April 3, 2026
 
 ---
 
 *Mark your calendars and join us for these wonderful community events!*
+- **Email List** - Contact us at: TBD
