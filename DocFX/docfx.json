@@ -27,7 +27,8 @@
       "_appTitle": "Luxford Elementary PTA",
       "_extraCss": [
         "styles/main.css"
-      ]
+      ],
+      "_disableContribution": true
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
