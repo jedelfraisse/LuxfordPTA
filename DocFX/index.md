@@ -12,7 +12,7 @@ The Luxford Elementary PTA is committed to fostering a strong partnership betwee
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455  
 **Website:** [https://luxfordes.vbschools.com/](https://luxfordes.vbschools.com/)
 
-## 🦕 Luxford Elementary PTA Board Members  
+## Luxford Elementary PTA Board Members  
 **2025–2026**
 
 - **President:** Ashley Watkinson  
