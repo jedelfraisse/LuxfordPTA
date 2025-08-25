@@ -28,26 +28,22 @@ All holidays, staff days, and special schedule days for the school year.
 
 ## 📅 Upcoming Events
 
-### PTA Board Election 2025-2026
-**Date:** August 20, 2025  
-
-# Luxford Elementary PTA Events
-
-Welcome to our events page! Here you can find information about all PTA events, organized for easy reference.
-
-## 📅 **[Download Printable Event Calendar →](../images/monthlyevents-2526.jpg)**
-*Print and post this handy calendar with all events for the 2025-2026 school year!*
-
----
 
 
 ## 📅 Very Near Events
 
-Events happening in the next 30 days:
+Events happening in the next 30 days (Aug 25–Sep 24, 2025):
 
 - **First Day of School**  
 	August 25, 2025  
 	Welcome back, students and families! We hope you have a fantastic start to the new school year.
+- **Labor Day (School Closed)**  
+	August 29, 2025 and September 1, 2025
+- **Staff Days (School Closed for Students)**  
+	August 26, 2025, August 27, 2025, August 28, 2025 (continuing from Aug 18–22 window)
+- **Picture Day**  
+    Date: September 18, 2025 
+    Check your email for the Picture Day ID and ordering instructions.
 
 ---
 
