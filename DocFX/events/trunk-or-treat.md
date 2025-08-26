@@ -14,11 +14,30 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 ### 6:00 PM - 6:30 PM: Setup & Arrival
 - **Trunk decorators** arrive and set up their themed displays
 - **Volunteers** position trunks throughout the bus loop
+- **PTA table setup** for information, membership, and spirit wear
+- **Cake Walk setup** and prize display
+- **Temporary Tattoo Station setup**
+- **Game stations setup**
 - **Final safety checks** of the trick-or-treat route
 
-### 6:30 PM - 8:00 PM: Trunk or Treat
+### 6:30 PM - 8:00 PM: Trunk or Treat & Activities
 - **Children trick-or-treat** from trunk to trunk in the bus loop
+- **Cake Walk** - Win delicious cakes and treats!
+- **Temporary Tattoo Station** - Fun, safe temporary tattoos for kids
+- **PTA Table** - Info, membership, spirit wear, and volunteer sign-up
+- **Games & Activities** - Carnival-style games run by volunteers
+- **Costume Contest** - Volunteers help organize and judge costumes
 - **Safe, controlled environment** with adult supervision
+
+## Volunteer Opportunities
+
+- **Game Attendants** - Run carnival games and help kids participate
+- **Costume Contest Helpers** - Organize, judge, and assist with contest
+- **PTA Table Helpers** - Greet families, answer questions, and sign up new members
+- **Cake Walk Helpers** - Manage the cake walk and distribute prizes
+- **Tattoo Station Helpers** - Apply temporary tattoos and supervise the station
+- **Trunk Decorators** - Create and run themed trunks for trick-or-treating
+- **General Event Volunteers** - Setup, cleanup, and floaters as needed
 - **Themed trunk displays** for extra fun and photos
 
 ## Halloween Costume Contest

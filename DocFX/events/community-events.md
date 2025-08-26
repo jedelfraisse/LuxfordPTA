@@ -1,23 +1,23 @@
 # 👨‍👩‍👧‍👦 Student/Family/Community Support
 
 Upcoming community & family events:
-- **PTA Board Election** — August 20, 2025
-- **Back to School Event** — August 21, 2025
+- **[PTA Board Election](pta-board-election.md)** — August 20, 2025
+- **[Back to School Event](back-to-school-night.md)** — August 21, 2025
 - **Chuck E. Cheese Night** — September 18, 2025
-- **Skate Night** — September 30, 2025
-- **Trunk or Treat** — October 24, 2025
+- **[Skate Night](skate-night.md)** — September 30, 2025
+- **[Trunk or Treat](trunk-or-treat.md)** — October 24, 2025
 - **Dave & Busters Night** — November 19, 2025
 - **Village Inn Night** — December 7, 2025
 - **Superhero Ice Cream Social** — January 7, 2026
-- **Bingo Night** — January 16, 2026
+- **[Bingo Night](bingo-night.md)** — January 16, 2026
 - **Mission Laser Tag** — February 5, 2026
 - **Valentine's Dance** — February 13, 2026
 - **Chuck E. Cheese Night** — March 6, 2026
 - **Donuts with Dads** — March 16-17, 2026
 - **Village Inn Night** — March 29, 2026
-- **Skate Night** — April 27, 2026
+- **[Skate Night](skate-night.md)** — April 27, 2026
 - **Muffins with Moms** — May 4-5, 2026
-- **Talent Show** — May 15, 2026
+- **[Talent Show](talent-show.md)** — May 15, 2026
 - **Field Day** — June (TBD)
 - **Fifth Grade Graduation** — June (TBD)
 
@@ -100,31 +100,6 @@ Upcoming community & family events:
 - **Community Outreach** - Build partnerships with local organizations
 
 **Contact for Community Events:** TBD
-
----
-
-## Upcoming Community Calendar
-
-### August 2025
-- **August 20:** PTA Board Election
-- **August 21:** Back to School Event
-
-### Fall 2025
-- **September:** New Family Welcome Night
-- **October:** Trunk or Treat & Costume Contest
-- **November:** Thanksgiving Community Service Project
-
-### Winter 2025-2026
-- **December:** Winter Holiday Celebration
-- **January:** Family Game Night
-- **February:** Multicultural Night
-
-### Spring 2026
-- **March:** Family Fitness Fun Day
-- **April:** Art & Music Showcase
-- **May:** End of Year Celebration
-
-*Dates subject to change - check back for updates!*
 
 ---
 
