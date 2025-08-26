@@ -1,7 +1,8 @@
 # Trunk or Treat & Halloween Costume Contest
 
 **Date:** October 24, 2025  
-**Time:** 6:30 PM - 8:00 PM  
+**Setup Time:** 3:00 PM - 5:00 PM  
+**Event Time:** 5:00 PM - 7:30 PM  
 **Location:** Luxford Elementary School Bus Loop  
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455
 
@@ -11,7 +12,7 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 
 ## Event Schedule
 
-### 6:00 PM - 6:30 PM: Setup & Arrival
+### 3:00 PM - 5:00 PM: Setup & Arrival
 - **Trunk decorators** arrive and set up their themed displays
 - **Volunteers** position trunks throughout the bus loop
 - **PTA table setup** for information, membership, and spirit wear
@@ -20,7 +21,7 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - **Game stations setup**
 - **Final safety checks** of the trick-or-treat route
 
-### 6:30 PM - 8:00 PM: Trunk or Treat & Activities
+### 5:00 PM - 7:30 PM: Trunk or Treat & Activities
 - **Children trick-or-treat** from trunk to trunk in the bus loop
 - **Cake Walk** - Win delicious cakes and treats!
 - **Temporary Tattoo Station** - Fun, safe temporary tattoos for kids
