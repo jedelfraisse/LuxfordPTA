@@ -128,7 +128,6 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 - **Family event** - Perfect for all ages
 - **Photo opportunities** - Capture memories with decorated trunks
 - **Community gathering** - Connect with other families
-- **Stay until 3:00 PM** for awards ceremony
 
 ### Volunteer Opportunities
 - **Trunk decoration** - Set up and decorate your own trunk
@@ -176,21 +175,19 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 ## Weather Considerations
 
 ### Outdoor Event
-- **Rain plan** - Event will move indoors if weather is severe
+- **Rain plan** - Event will be canceled if weather is severe
 - **Temperature** - Dress appropriately for October evening weather
-- **Lighting** - Bus loop will be well-lit for safety
+
 
 ## Special Accommodations
 
-- **Wheelchair accessible** gymnasium and stage
-- **Sensory considerations** - Quiet area available for students who need breaks
 - **Costume assistance** - Staff available to help with costume adjustments
 - **Allergy awareness** - Treat alternatives available for students with food allergies
 
 ## After the Event
 
 ### Photo Sharing
-- **School website** - Contest winner photos posted within one week
+- **School website** - Contest winner photos posted
 - **PTA Facebook** - Highlights and winner announcements
 - **Yearbook consideration** - Best photos included in school yearbook
 
@@ -199,8 +196,6 @@ Join us for our annual Trunk or Treat event! Families and volunteers will decora
 **Event Coordinator:** TBD  
 **Email:** TBD  
 **Phone:** (757) 123-4567
-
-
 
 ---
 
