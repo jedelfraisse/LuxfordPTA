@@ -1,7 +1,7 @@
 # PTA Talent Show
 
-**Date:** TBD (Spring 2026)  
-**Time:** TBD  
+**Date:** May 15th 
+**Time:** 5:00 - 7:30
 **Location:** Luxford Elementary School Cafeteria  
 **Address:** 4808 Haygood Rd, Virginia Beach, VA 23455
 

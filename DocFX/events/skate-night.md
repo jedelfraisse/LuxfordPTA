@@ -2,7 +2,7 @@
 
 **Fall Date:** September 30, 2025  
 **Spring Date:** April 27, 2026  
-**Time:** TBD  
+**Time:** 5:30 - 7:30 PM  
 **Location:** Haygood Skating Center  
 **Address:** 1036 Ferry Plantation Rd, Virginia Beach, VA 23455
 
